@@ -5,7 +5,7 @@ I am beginner software engineer
 -------------------------------
 
 *   🌍  I'm based in Ghotam City
-*   🧠  I'm learning JavaScript, Node.js and TypeScript
+*   🧠  I'm learning Java
 *   🤝  I'm open to collaborating on interesting projects
 
 
